@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @KarmaSSH
+- 👋 Hi, I’m @12SSH
 - 🌱 I’m currently learning GO
